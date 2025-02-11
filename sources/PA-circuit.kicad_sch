@@ -9,7 +9,7 @@
 		(date "2024-09-16")
 		(rev "v0.0")
 		(company "SpaceLab")
-		(comment 1 "Author: Vitória Beatriz Bianchin <vitoriabbianchin@gmail.com>")
+		(comment 1 "Vitória Beatriz Bianchin <vitoriabbianchin@gmail.com>")
 	)
 	(lib_symbols
 		(symbol "133-3701-311:133-3701-311"
@@ -6078,7 +6078,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "616c5a79-5f0c-4d50-89ad-9d419db31ca0")
-		(property "Reference" "U2"
+		(property "Reference" "J2"
 			(at 179.07 44.45 0)
 			(effects
 				(font
@@ -6225,7 +6225,7 @@
 		(instances
 			(project ""
 				(path "/aef50ecb-106b-43ce-b327-8f771253a940"
-					(reference "U2")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -6499,7 +6499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c2e2eb2-2269-4420-8919-059fd6ee514b")
-		(property "Reference" "J3"
+		(property "Reference" "J4"
 			(at 52.07 110.4899 0)
 			(effects
 				(font
@@ -6550,7 +6550,7 @@
 		(instances
 			(project ""
 				(path "/aef50ecb-106b-43ce-b327-8f771253a940"
-					(reference "J3")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -7001,7 +7001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ec05a66-5a80-4db5-984c-6572cf1acbe2")
-		(property "Reference" "1"
+		(property "Reference" "J1"
 			(at 38.1 62.23 0)
 			(effects
 				(font
@@ -7148,7 +7148,7 @@
 		(instances
 			(project ""
 				(path "/aef50ecb-106b-43ce-b327-8f771253a940"
-					(reference "1")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -7813,7 +7813,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6a53f8f-a511-4432-a108-f81e7fd66f81")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 57.15 92.7099 0)
 			(effects
 				(font
@@ -7876,7 +7876,7 @@
 		(instances
 			(project ""
 				(path "/aef50ecb-106b-43ce-b327-8f771253a940"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
