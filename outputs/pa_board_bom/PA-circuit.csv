@@ -1,0 +1,26 @@
+,,,,,,
+,,,Bill of Materials,,,
+,,,Source Data From:,,,
+,,,Project:,PA-circuit.kicad_pro,,
+,,,Variant:,None,,
+,,,Project Code:,TMTC,,
+,,,Report Date:,,,
+,,,Print Date:,,,
+,,,,,,
+,,,,,,
+,Id,Designator,Part Number,Quantity,Description,Supplier and ref
+,1,C9,GRM1555C1H102JA01ND,1,1000 pF Chip Capacitor,Murata
+,2,C1,GRM1555C1H221JA01ND,1,220 pF Chip Capacitor,Murata
+,3,"L2,L5",LL1608-FH5N6K,2,5.6 nH Chip Inductor,Toko
+,4,L4,LL1608-FH22NK,1,22 nH Chip Inductor,Toko
+,5,"C6,C8,C7",GRM1555C1H101JA01ND,3,100 pF Chip Capacitors,Murata
+,7,C2,06033J180GBT2A,1,18 pF Chip Capacitor,AVX
+,8,C10,GRM188R60J475KE19ND,1,4.7 µF Chip Capacitor,Murata
+,9,C5,04023J2R4BBS,1,2.4 pF Chip Capacitor,AVX
+,10,L1,LL1608-FH3N9K,1,3.9 nH Chip Inductor,Toko
+,11,"C3,C4",GRM188R61A105KE15ND,2,1 uF Chip Capacitors,Murata
+,12,R2,RC0402JR-072KP,1,"2.0 KΩ, 1/16 W Chip Resistor",Yageo
+,13,L3,LL1608-FH12NK,1,12 nH Chip Inductor,Toko
+,14,"J2,J1", 2484782-1 ,2,SMA Coaxial Connector 2484782-1 ,TE Connectivity
+,16,R1,RC0402JR-071K8P,1,"1.8 KΩ, 1/16 W Chip Resistor",Yageo
+,17,U1,MMZ09332BT1,1,Power amplifier,
